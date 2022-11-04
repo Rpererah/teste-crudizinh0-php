@@ -1,0 +1,11 @@
+<?php
+
+$porta="localhost:8889";
+$nomeDoBanco="crudizinho";
+$usuarioDoBancoDeDados="root";
+$senhaDoBancoDeDados="root";
+
+$conexao=new PDO("mysql:host=$porta;dbname=$nomeDoBanco",$usuarioDoBancoDeDados,$senhaDoBancoDeDados);
+
+
+?>
