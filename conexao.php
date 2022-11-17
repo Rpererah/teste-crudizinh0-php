@@ -1,7 +1,7 @@
 <?php
 
 $porta="localhost:8889";
-$nomeDoBanco="crudizinho";
+$nomeDoBanco="teste3";
 $usuarioDoBancoDeDados="root";
 $senhaDoBancoDeDados="root";
 
